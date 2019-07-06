@@ -1,7 +1,7 @@
 wikipedia-rankings
 ==================
 
-Support files for [TIME's ranking of the prominent people on Wikipedia](http://ti.me/1nx24ty).
+Support files for [TIME's ranking of the prominent people on Wikipedia](https://time.com/109947/web-ranking/).
 
 Data was collected over several days in May using [node-wikipedia](https://www.npmjs.org/package/node-wikipedia), a Node.js module maintained by [@wilson428](https://github.com/wilson428).
 
